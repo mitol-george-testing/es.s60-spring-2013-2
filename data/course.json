@@ -1,0 +1,27 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "96ba9467-ce39-a1e0-a540-2c73d1e2ab57"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The Art and Science of Happiness",
+  "course_description": "This seminar looks at current theories on happiness and positive psychology as well as practical implications of those theories for our own lives. It explores the concept of happiness, different cultural definitions of happiness, and the connection between happiness, optimism, and meaning. Also explored are practical strategies for creating more opportunities for happiness in our lives and for learning how to deal more effectively with sources of unhappiness.\n\nThis seminar is part of the [Experimental Study Group](http://esg.mit.edu/) at MIT.\n",
+  "department_numbers": [
+    "ES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ES.S60",
+  "learning_resource_types": [
+    "Written Assignments with Examples",
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
